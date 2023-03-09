@@ -1,7 +1,7 @@
 === Dokan - Best WooCommerce Multivendor Marketplace Solution - Build Your Own Amazon, eBay, Etsy ===
 Contributors: tareq1988, wedevs, nizamuddinbabu
 Donate Link: http://tareq.co/donate/
-Tags: WooCommerce multivendor marketplace, multi vendor marketplace, multi seller store, multi-vendor, multi seller, commissions, multivendor, marketplace, product vendors, woocommerce vendor, commission rate, e-commerce, woocommerce, ebay, ecommerce, yith, yithemes
+Tags: WooCommerce multivendor marketplace, multi vendor marketplace, multi seller store, multi-vendor, multi seller, commissions, multivendor, marketplace, product vendors, woocommerce vendor, commission rate, e-commerce, woocommerce, ebay, ecommerce.
 Requires at least: 5.4
 Tested up to: 6.1.1
 WC requires at least: 5.0.0
@@ -15,13 +15,7 @@ The pioneer multi-vendor plugin for WordPress. Start your own marketplace in min
 
 == Description ==
 
-= DOKAN MULTIVENDOR MARKETPLACE PLUGIN FOR WORDPRESS =
-
-👉 Official Free Demo Link: [Official Demo](https://wedevs.com/dokan/demo/)
-👉 Learn More About Dokan(PRO): [All The Features of Dokan](https://wedevs.com/dokan/features/)
-👉 Check out [Dokan Mobile App](https://wedevs.com/dokan/dokan-mobile-app)
-
-= POWERED BY WooCommerce =
+= DOKAN MULTIVENDOR MARKETPLACE PLUGIN FOR WORDPRESS - POWERED BY WOOCOMMERCE =
 
 [Dokan](https://wedevs.com/dokan/) is the best front end multi-vendor marketplace on WordPress, powered by WooCommerce. It helps you to build your own marketplace similar to Amazon, Shopify, eBay, Magento like marketplaces in under 30 minutes.
 
@@ -30,6 +24,10 @@ Dokan is the fastest way to start eCommerce and earn through commissions with pr
 Hear what reputed WordPress influencer and online business strategist, Darrel Wilson, has to say about Dokan.
 
 [youtube https://www.youtube.com/watch?v=nDAxNypVxdw]
+
+👉 Official Free Demo Link: [Official Demo](https://wedevs.com/dokan/demo/)
+👉 Learn More About Dokan(PRO): [All The Features of Dokan](https://wedevs.com/dokan/features/)
+👉 Check out [Dokan Mobile App](https://wedevs.com/dokan/dokan-mobile-app)
 
 = PLACES WHERE DOKAN HAS BEEN FEATURED =
 
